@@ -1,0 +1,21 @@
+{
+  "$schema": "https://typedoc.org/schema.json",
+  "name": "Boilerplate Documentation",
+  // "internalModule": "<internal>",
+  "tsconfig": "tsconfig.typedoc.json",
+  "entryPoints": [
+    // "./dts/boilerplate-dts-lib.d.ts",
+    "./dts/components/**/*.d.ts",
+    "./dts/views/**/*.d.ts",
+  ],
+  "exclude": [
+    "./dts/*.d.ts",
+    // "./dts/__VLS_types.d.ts"
+  ], // "entryPointStrategy": "expand",
+  "emit": "both",
+  "out": "public/docs",
+  "plugin": [
+    "typedoc-plugin-vue",
+    // "typedoc-plugin-missing-exports"
+  ],
+}
