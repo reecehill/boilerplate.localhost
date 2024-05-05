@@ -16,7 +16,8 @@ export default defineConfig({
       staticImport: true,
       // declarationOnly: true,
       outDir: 'dts',
-      // insertTypesEntry: true
+      // insertTypesEntry: true,
+      
     }),
     vue()
   ],
@@ -30,7 +31,7 @@ export default defineConfig({
       entry: resolve(__dirname, 'src/main.ts'),
       name: 'BoilderPlateLib',
       formats: ['es'],
-      fileName: 'boilerplate-dts-lib'
+      fileName: 'boilerplate-dts-lib',
     }
   }
 })
