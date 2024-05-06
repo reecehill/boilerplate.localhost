@@ -1,8 +1,23 @@
-# Github README.md for the Vue 3 project
+# Your lean starter template for Vue3 (with branding, cache, store, routes etc.)
 
 ## 📙 Introduction
 
-Welcome. This is a basic starting point for front-end projects utilising Vue 3. This project is designed to be the beginnings of a flexible and scalable admin panel for web applications. It follows the Atomic Design principle, and is expected to communicate with an API.
+Welcome. This is a basic starting point for front-end projects utilising Vue 3. This project is designed to be the beginnings of a flexible and scalable admin panel (or any other web app). It follows the Atomic Design principle for file structure, and is expected to communicate with an API for data retrieval (hence Tanstack). It's a beginning repo from which projects can flourish, with all dependencies compatible and working as they should. Feel free to use it, I've not done anything special other than link it all together.
+
+Out-of-the-box, I've prepped it with the following dependencies:
+- Vue (v3)
+- Vue Router (v4)
+- Vite (v5)
+- Pinia (v2)
+- Tanstack, Vue Query (v5)
+- Typescript (v5)
+- Tailwind CSS (v3)
+  - Tailwind Forms (v0.5)
+- ESLint (v8)
+- Typedoc (v0.25)
+- Cypress (v13)
+- CSSNano (v7)
+- And more. See package.json
 
 ## 🚀 Getting Started
 
