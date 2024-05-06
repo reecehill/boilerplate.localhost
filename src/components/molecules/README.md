@@ -22,7 +22,6 @@ For more information about Atomic Design and its principles, we recommend the fo
 2. [Atomic Design on Medium](https://medium.com/tag/atomic-design)
 3. [Atomic Design on UXPin](https://www.uxpin.com/studio/artboard/11333-atomic-design-principles)
 
-
 ## Examples of Molecule Components
 
 Here are 20 examples of Vue 3 components that could be classified as "Molecules" based on the Atomic Design system. A molecule is a combination of smaller, reusable "atoms" that work together to create more complex UI patterns (molecules). They're typically composed of multiple "atoms" such as buttons, inputs, and selects, which are combined to serve a specific purpose within an application. Molecules help to create a consistent and scalable user interface by reusing and combining smaller, well-defined components.
@@ -47,7 +46,6 @@ Here are 20 examples of Vue 3 components that could be classified as "Molecules"
 18. `MoleculeCollapsibleGroup.vue`
 19. `MoleculeCollapsibleItem.vue`
 20. `MoleculeCollapsibleSection.vue`
-
 
 ## Contributing
 

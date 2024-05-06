@@ -22,7 +22,6 @@ For more information about Atomic Design and its principles, we recommend the fo
 2. [Atomic Design on Medium](https://medium.com/tag/atomic-design)
 3. [Atomic Design on UXPin](https://www.uxpin.com/studio/artboard/11333-atomic-design-principles)
 
-
 ## Examples of Atom Components
 
 Here are 40 examples of Vue 3 components that could be classified as "Atoms" for a typical admin panel, based on the Atomic Design system:

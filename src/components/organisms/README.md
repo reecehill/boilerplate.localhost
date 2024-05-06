@@ -24,7 +24,7 @@ For more information about Atomic Design and its principles, we recommend the fo
 
 ## Examples of Organism Components
 
-Here are 5 examples of Vue 3 components that could be classified as "Organisms" based on the Atomic Design system. "Organisms" are big components that are made up of smaller, reusable molecules. An organism  work together to create more complex and useful things, like headers, footers, and entire pages. These organisms are like the big, important parts of a website or app, and they're made up of smaller, simpler parts that work together. 
+Here are 5 examples of Vue 3 components that could be classified as "Organisms" based on the Atomic Design system. "Organisms" are big components that are made up of smaller, reusable molecules. An organism work together to create more complex and useful things, like headers, footers, and entire pages. These organisms are like the big, important parts of a website or app, and they're made up of smaller, simpler parts that work together.
 
 1. `OrganismHeader.vue`
 2. `OrganismFooter.vue`
