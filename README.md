@@ -38,13 +38,27 @@ npm run dev
 
 The project is structured as follows:
 
-- `src/components/`: Contains all the reusable components.
-- `src/layouts/`: Contains all the layout components.
-- `src/pages/`: Contains all the page components.
-- `src/templates/`: Contains all the template components.
+- `src/`: Contains all the reusable components.
+  - `assets/`
+    - `media`
+    - `scss`
+  - `components/`: Contains all the layout components.
+    - `__tests__/`
+    - `atoms/`
+    - `molecules/`
+    - `organisms/`
+    - `templates/`
+    - `icons/`: SVG files as .vue components.
+    - `README.md`
+  - `router`
+    - `index.ts`
+  - `stores`
+  - `views`
 - `public/`: Contains all the static assets.
+- `.eslintrc.cjs`: Contains the ESLint configuration.
 - `vite.config.js`: Contains the Vite configuration.
 - `tsconfig.json`: Contains the TypeScript configuration.
+- `...`: The rest is self-explanatory
 
 ## 🖌️ Linting and Formatting
 
